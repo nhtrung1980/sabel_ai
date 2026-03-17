@@ -14,6 +14,10 @@ Sabel AI là ứng dụng desktop tạo giọng nói tiếng việt và nhiều 
 
 - Các tính năng liên kết online.
 
+# Tải xuống
+
+[Phiên bản mới nhất](https://github.com/nhtrung1980/sabel_ai/releases)
+
 ## Mô tả nhanh chức năng app
 
 - Quản lý project TTS và project SRT.
